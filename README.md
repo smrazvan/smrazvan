@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smrazvan
-- Currently focusing on the web stuff, intern @ Amdaris working with .NET C# SQL EF React TypeScript
+- Currently working with ASP.NET / Xamarin / Angular as a Junior
 - Previous experience with HTML, CSS, JavaScript, React, NodeJS, Firebase/MongoDB
 - 📫 Reach me @smrazvan LinkedIn
 
