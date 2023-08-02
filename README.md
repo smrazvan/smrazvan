@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smrazvan
-- Currently working with .NET API / Angular / SQL Server as a Junior
+- Currently working with .NET API / Angular / SQL Server
 - Previous experience with HTML, CSS, JavaScript, React, NodeJS, Firebase/MongoDB
 - 📫 Reach me @smrazvan LinkedIn
 
