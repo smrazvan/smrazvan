@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @smrazvan
+- 👋 Hi, I’m @mihaiserb
 - Currently working with .NET API / Angular / SQL Server
 - Previous experience with HTML, CSS, JavaScript, React, NodeJS, Firebase/MongoDB
-- 📫 Reach me @smrazvan LinkedIn
+- 📫 Reach me @mihaiserb LinkedIn
 
 <!---
 smrazvan/smrazvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
